@@ -48,7 +48,6 @@ Project development roadmap. Development started in September 2025.
 ### App Analytics
 - 📊 Analytics dashboard for developers
 - 📊 Installation and view metrics
-- 🔄 Incentive donation system for developers
 - 📊 User event tracking
 - 📊 Geographic analytics
 
@@ -75,6 +74,7 @@ Project development roadmap. Development started in September 2025.
 - 🛠️ REST API for app management
 - 🛠️ GraphQL API for external integrations
 - 🛠️ Webhooks for events (publishing, updates)
+- 🔄 Incentive donation system for developers
 
 ## Q3-Q4 2026
 
