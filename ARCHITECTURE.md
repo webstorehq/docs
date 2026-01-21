@@ -72,10 +72,6 @@ Web Store is built as a modern PWA application with separation between frontend 
 - Data caching
 - Optimistic updates
 
-**React Query** — for additional caching:
-- REST API request caching
-- Background data updates
-
 ### PWA Functionality
 
 **Service Worker** (Workbox):
